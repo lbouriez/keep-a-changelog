@@ -18,6 +18,10 @@ $languages = {
   "cs"    => {
     name: "Čeština"
   },
+  "da"    => {
+    name: "Dansk",
+    new: "En ny version er tilgængelig"
+  },
   "de"    => {
     name: "Deutsch",
     notice: "Die neuste version (#{$last_version}) ist noch nicht auf Deutsch
@@ -78,6 +82,9 @@ $languages = {
   },
   "sk"    => {
     name: "Slovenčina"
+  },
+  "ka"    => {
+    name: "ქართული"
   },
   "sl"    => {
     name: "Slovenščina"
